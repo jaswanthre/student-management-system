@@ -1,4 +1,6 @@
 Function: addStudent()
 Adds student info to the system
 
+Function: deleteStudent()
+Description: Deletes student info from the system.
 
